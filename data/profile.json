@@ -1,0 +1,59 @@
+{
+  "name": "Mukul Dhiman",
+  "displayName": "Mukul Bro",
+  "title": "Aerospace Engineer | Data Science & Drone Ops",
+  "email": "ermukuldhiman00@gmail.com",
+  "location": "Chandigarh, India",
+  "linkedin": "https://www.linkedin.com/in/mukul-dhiman25",
+  "summary": "Experienced Operational Manager in drone industry with a growing passion for data analytics. Proven record reducing reporting time by 40%, training teams in Excel, and building drones through R&D. Certified in Excel, Power BI, and ChatGPT tools, skilled with CatiaV5, Ansys, and SolidWorks. Seeking data analyst / operations roles in tech and aerospace.",
+  "skills": [
+    "Drones",
+    "Drone Mapping",
+    "Drone Building",
+    "Microsoft Excel",
+    "Power BI",
+    "Data Analysis",
+    "Python (basic)",
+    "CatiaV5",
+    "Ansys",
+    "SolidWorks"
+  ],
+  "certifications": [
+    "Introduction to Data Analysis using Microsoft Excel",
+    "Power BI (certified)",
+    "ChatGPT tools (certified)"
+  ],
+  "experience": [
+    {
+      "role": "Operations Manager",
+      "company": "Mach One Advisors LLP",
+      "start": "May 2024",
+      "end": "Present",
+      "desc": "Leading operations and drone projects; improved reporting and operational workflows."
+    },
+    {
+      "role": "Assistant Manager",
+      "company": "TP (Teleperformance)",
+      "start": "Jan 2022",
+      "end": "Jul 2024",
+      "desc": "Managed teams, optimized reporting, and trained staff in data interpretation."
+    },
+    {
+      "role": "Trainee",
+      "company": "Tata Lockheed Martin Aerostructures Limited",
+      "start": "Sep 2019",
+      "end": "Mar 2020",
+      "desc": "Rotated across manufacturing, QC, and tooling departments; learned bonding and inspection processes."
+    }
+  ],
+  "education": [
+    {
+      "degree": "BE Aerospace Engineering",
+      "school": "Chandigarh University",
+      "start": "2015",
+      "end": "2019"
+    }
+  ],
+  "projects": [],
+  "lastUpdated": "2025-08-10"
+}
