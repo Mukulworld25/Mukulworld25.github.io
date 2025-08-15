@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mukul Bro - Portfolio</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #222;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 5px 0 0;
+            font-size: 1.2rem;
+        }
+        nav {
+            background: #444;
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            padding: 10px 15px;
+            text-decoration: none;
+            transition: background 0.3s;
+        }
+        nav a:hover {
+            background: #666;
+        }
+        .container {
+            width: 90%;
+            max-width: 1000px;
+            margin: auto;
+            padding: 20px 0;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #222;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        .project {
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        .project:hover {
+            transform: translateY(-5px);
+        }
+        footer {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+            margin-top: 20px;
+        }
+        footer a {
+            color: #0af;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mukul Bro</h1>
+        <p>Aerospace Engineer | Fitness Coach | Data Analyst & AI Enthusiast</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello! I’m Mukul, an Aerospace Engineer turned Data Analyst and AI Enthusiast. With a strong background in engineering and fitness coaching, I bring a unique blend of analytical thinking, problem-solving, and people skills to every project I take on.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <div class="projects">
+                <div class="project">
+                    <h3>Data Analysis Dashboard</h3>
+                    <p>Interactive dashboard providing insights using Python, Pandas, and Plotly.</p>
+                </div>
+                <div class="project">
+                    <h3>AI Chatbot</h3>
+                    <p>A conversational AI built with natural language processing to assist users in real-time.</p>
+                </div>
+                <div class="project">
+                    <h3>Fitness Transformation Program</h3>
+                    <p>Custom fitness program combining workout plans, nutrition guides, and progress tracking.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:mukul@example.com">mukul@example.com</a></p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/mukulbro" target="_blank">linkedin.com/in/mukulbro</a></p>
+            <p>GitHub: <a href="https://github.com/mukulbro" target="_blank">github.com/mukulbro</a></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Mukul Bro. Built with ❤️ and passion. <a href="#top">Back to top</a></p>
+    </footer>
+</body>
+</html>
